@@ -1,3 +1,6 @@
 [submodule "acp-sdk"]
 	path = acp-sdk
 	url = https://github.com/agntcy/acp-sdk.git
+[submodule "agentic-apps"]
+	path = agentic-apps
+	url = https://github.com/agntcy/agentic-apps.git
